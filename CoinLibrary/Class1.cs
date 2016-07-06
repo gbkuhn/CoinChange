@@ -7,12 +7,19 @@ using System.Threading.Tasks;
 
 namespace CoinLibrary
 {
-    public class Class1
+    public class CoinClass
     {
-        public int amount_q;
-        public int amount_d;
-        public int amount_n;
-        public int amount_p;
+        public static int amount_q;
+        public static int remainder_q;
+
+        public static int amount_d;
+        public static int remainder_d;
+
+        public static int amount_n;
+        public static int remainder_n;
+
+        public static int amount_p;
+        public static int remainder_p;
 
         public int prompt()
         {
@@ -21,28 +28,47 @@ namespace CoinLibrary
             return Convert.ToInt32(amount);
         }
 
-        public int amount_quarters(int change)
+        public int remainder_quarters(int change)
         {
+            amount_q = change/25;
+            remainder_q = change%25;
 
-            return amount_q;
+            return remainder_q;
         }
 
-        public int amount_dimes(int change)
+        public int remainder_dimes(int change)
         {
+            amount_d = change/10;
+            remainder_d = change%10;
 
-            return amount_d;
+            return remainder_d;
         }
 
-        public int amount_nickels(int change)
+        public int remainder_nickels(int change)
         {
+            amount_n = change/5;
+            remainder_n = change%5;
 
-            return amount_n;
+            return remainder_n;
         }
 
-        public int amount_pennies(int change)
+        public int remainder_pennies(int change)
         {
+            amount_p = change/1;
+            amount_p = change/1;
 
-            return amount_p;
+            return remainder_p;
+        }
+
+        public void print_change()
+        {
+            Console.WriteLine("Quarters:"+amount_q);
+            Console.WriteLine("Dimes:" + amount_d);
+            Console.WriteLine("Nickels:" + amount_n);
+            Console.WriteLine("Pennies:" + amount_p);
+
+
+
         }
     }
 }

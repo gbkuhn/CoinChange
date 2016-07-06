@@ -14,10 +14,15 @@ namespace CoinChange
         {
             int change;
 
-            Class1 change_prompt = new Class1();
-            change = change_prompt.prompt();
+            CoinClass change_obj = new CoinClass();
+            change = change_obj.prompt();
 
-            change_prompt.amount_quarters(change);
+            change_obj.remainder_pennies(
+                change_obj.remainder_nickels(change_obj.remainder_dimes(change_obj.remainder_quarters(change))));
+
+            change_obj.print_change();
+            
+            Console.ReadLine();
         }
     }
 }
