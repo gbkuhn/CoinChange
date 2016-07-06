@@ -1,0 +1,5 @@
+C:\Users\geoffrey.kuhn\Documents\Visual Studio 2013\Projects\CoinLibrary\CoinLibrary\bin\Debug\CoinLibrary.dll
+C:\Users\geoffrey.kuhn\Documents\Visual Studio 2013\Projects\CoinLibrary\CoinLibrary\bin\Debug\CoinLibrary.pdb
+C:\Users\geoffrey.kuhn\Documents\Visual Studio 2013\Projects\CoinLibrary\CoinLibrary\obj\Debug\CoinLibrary.csprojResolveAssemblyReference.cache
+C:\Users\geoffrey.kuhn\Documents\Visual Studio 2013\Projects\CoinLibrary\CoinLibrary\obj\Debug\CoinLibrary.dll
+C:\Users\geoffrey.kuhn\Documents\Visual Studio 2013\Projects\CoinLibrary\CoinLibrary\obj\Debug\CoinLibrary.pdb

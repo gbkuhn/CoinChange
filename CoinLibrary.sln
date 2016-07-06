@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoinLibrary", "CoinLibrary\CoinLibrary.csproj", "{4A0F053B-998E-4C69-A7BA-261AC7BD5A78}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoinChange", "CoinChange\CoinChange.csproj", "{E70F6F97-A7C5-4FCF-9B72-3B3C9C4AE1C1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4A0F053B-998E-4C69-A7BA-261AC7BD5A78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A0F053B-998E-4C69-A7BA-261AC7BD5A78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A0F053B-998E-4C69-A7BA-261AC7BD5A78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A0F053B-998E-4C69-A7BA-261AC7BD5A78}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E70F6F97-A7C5-4FCF-9B72-3B3C9C4AE1C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E70F6F97-A7C5-4FCF-9B72-3B3C9C4AE1C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E70F6F97-A7C5-4FCF-9B72-3B3C9C4AE1C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E70F6F97-A7C5-4FCF-9B72-3B3C9C4AE1C1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

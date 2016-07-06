@@ -1,0 +1,8 @@
+C:\Users\geoffrey.kuhn\Documents\Visual Studio 2013\Projects\CoinLibrary\CoinChange\bin\Debug\CoinChange.exe.config
+C:\Users\geoffrey.kuhn\Documents\Visual Studio 2013\Projects\CoinLibrary\CoinChange\bin\Debug\CoinChange.exe
+C:\Users\geoffrey.kuhn\Documents\Visual Studio 2013\Projects\CoinLibrary\CoinChange\bin\Debug\CoinChange.pdb
+C:\Users\geoffrey.kuhn\Documents\Visual Studio 2013\Projects\CoinLibrary\CoinChange\bin\Debug\CoinLibrary.dll
+C:\Users\geoffrey.kuhn\Documents\Visual Studio 2013\Projects\CoinLibrary\CoinChange\bin\Debug\CoinLibrary.pdb
+C:\Users\geoffrey.kuhn\Documents\Visual Studio 2013\Projects\CoinLibrary\CoinChange\obj\Debug\CoinChange.csprojResolveAssemblyReference.cache
+C:\Users\geoffrey.kuhn\Documents\Visual Studio 2013\Projects\CoinLibrary\CoinChange\obj\Debug\CoinChange.exe
+C:\Users\geoffrey.kuhn\Documents\Visual Studio 2013\Projects\CoinLibrary\CoinChange\obj\Debug\CoinChange.pdb

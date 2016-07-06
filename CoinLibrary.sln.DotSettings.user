@@ -1,0 +1,6 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:Boolean x:Key="/Default/RunConfigs/Config/=5D3D74A56D4A1341A71C61DAB4CC0B31/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/RunConfigs/Config/=5D3D74A56D4A1341A71C61DAB4CC0B31/Type/@EntryValue">project</s:String>
+	<s:String x:Key="/Default/RunConfigs/Config/=5D3D74A56D4A1341A71C61DAB4CC0B31/Name/@EntryValue">CoinChange</s:String>
+	<s:String x:Key="/Default/RunConfigs/Config/=5D3D74A56D4A1341A71C61DAB4CC0B31/ProjectGuid/@EntryValue">976F0FE7C5A7CF4F9B723B3C9C4AE1C1</s:String>
+	<s:String x:Key="/Default/RunConfigs/Active/@EntryValue">5D3D74A56D4A1341A71C61DAB4CC0B31</s:String></wpf:ResourceDictionary>
