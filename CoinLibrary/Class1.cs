@@ -20,13 +20,14 @@ namespace CoinLibrary
 
         public static int amount_p;
         public static int remainder_p;
-
+        /*
         public int prompt()
         {
             Console.WriteLine("What is the amount of change you wish to receive from 1 to 99 cents");
             string amount = Console.ReadLine();
             return Convert.ToInt32(amount);
         }
+         * */
 
         public int remainder_quarters(int change)
         {
@@ -60,15 +61,18 @@ namespace CoinLibrary
             return remainder_p;
         }
 
-        public void print_change()
+        public List<int> print_change()
         {
-            Console.WriteLine("Quarters:"+amount_q);
-            Console.WriteLine("Dimes:" + amount_d);
-            Console.WriteLine("Nickels:" + amount_n);
-            Console.WriteLine("Pennies:" + amount_p);
 
+            //Console.WriteLine("Quarters: "+amount_q+"\n"+"Dimes: "+amount_d+"\n"+"Nickles: "+amount_n+"\n"+"Pennies: "+amount_p);
 
+            var return_list = new List<Int32>();
+            return_list.Add(amount_q);
+            return_list.Add(amount_d);
+            return_list.Add(amount_n);
+            return_list.Add(amount_p);
 
+            return return_list;
         }
     }
 }

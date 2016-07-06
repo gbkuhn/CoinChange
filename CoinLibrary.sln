@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoinLibrary", "CoinLibrary\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoinChange", "CoinChange\CoinChange.csproj", "{E70F6F97-A7C5-4FCF-9B72-3B3C9C4AE1C1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoinUnitTest", "CoinUnitTest\CoinUnitTest.csproj", "{9249BBC6-55AC-4D6F-B245-18D6B8C6D277}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{E70F6F97-A7C5-4FCF-9B72-3B3C9C4AE1C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E70F6F97-A7C5-4FCF-9B72-3B3C9C4AE1C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E70F6F97-A7C5-4FCF-9B72-3B3C9C4AE1C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9249BBC6-55AC-4D6F-B245-18D6B8C6D277}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9249BBC6-55AC-4D6F-B245-18D6B8C6D277}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9249BBC6-55AC-4D6F-B245-18D6B8C6D277}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9249BBC6-55AC-4D6F-B245-18D6B8C6D277}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

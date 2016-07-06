@@ -15,10 +15,10 @@ namespace CoinChange
             int change;
 
             CoinClass change_obj = new CoinClass();
-            change = change_obj.prompt();
+           // change = change_obj.prompt();
 
             change_obj.remainder_pennies(
-                change_obj.remainder_nickels(change_obj.remainder_dimes(change_obj.remainder_quarters(change))));
+                change_obj.remainder_nickels(change_obj.remainder_dimes(change_obj.remainder_quarters(99))));
 
             change_obj.print_change();
             
